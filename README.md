@@ -1,7 +1,6 @@
 ## Olá eu usou a Priscylla Boente 👋💜 
 
-💬 Esse é um espacinho com um pouquinho sobre mim, sou Publicitária de formação, mas amo tecnologia (💻) acho que desde que nasci! 
-<br>
+💬 Esse é um espacinho com um pouquinho sobre mim, sou Publicitária de formação mas amo tecnologia (💻) acho que desde que nasci! 
 Ao longo dos anos venho estudando cada vez mais sobre linguagens, design e principalmente a experiência do usuário.
 <br>
 <br>
