@@ -4,11 +4,14 @@
 <br>
 Ao longo dos anos venho estudando cada vez mais sobre linguagens, design e principalmente a experiência do usuário.
 <br>
+<br>
+<br>
 💜 Buscando colaborar com projetos como UX e Front End
 <br>
 😊 Posso te ajudar no melhor UI que você imaginar!
 <br>
 💻 Minhas stacks são Html, CSS, Js, PHP
+<br>
 <br>
 <br>
 ## ⚡ Metas 2021
