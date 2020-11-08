@@ -13,7 +13,6 @@ Ao longo dos anos venho estudando cada vez mais sobre linguagens, design e princ
 💻 Minhas stacks são Html, CSS, Js, PHP
 <br>
 <br>
-<br>
 ## ⚡ Metas 2021
 
 - [ ] Me aprofundar em um framework JS.
