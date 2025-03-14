@@ -1,22 +1,18 @@
 ## Olá eu usou a Priscylla Boente 👋💜 
 
-💬 Esse é um espacinho com um pouquinho sobre mim, sou Publicitária de formação mas amo tecnologia (💻) acho que desde que nasci! 
+💬 Sobre mim, sou Publicitária de formaçãom estudante de Engenharia de Software, amo tecnologia (💻) acho que desde que nasci! 
 Ao longo dos anos venho estudando cada vez mais sobre linguagens, design e principalmente a experiência do usuário.
 <br>
 <br>
 <br>
-💜 Buscando colaborar com projetos como UX e Front End
+💜 Buscando colaborar com projetos que buscam melhorar o mundo 
 <br>
 😊 Posso te ajudar no melhor UI que você imaginar!
 <br>
-💻 Minhas stacks são Html, CSS, Js, PHP
+💻 Minhas stacks são Html, CSS, Js, PHP, Pyhton e Django.
 <br>
 <br>
-## ⚡ Metas 2021
-
-- [ ] Me aprofundar em um framework JS.
-- [ ] Desenvolver com autonomia 
-
+## 😊 Estou aberta a novas oportunidades.
 
 <!--
 **frauviolett/frauviolett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
