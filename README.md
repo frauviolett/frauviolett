@@ -1,15 +1,15 @@
 ## Olá eu usou a Priscylla Boente 👋💜 
 
-💬 Sobre mim, sou Publicitária de formaçãom estudante de Engenharia de Software, amo tecnologia (💻) acho que desde que nasci! 
+💬 Sobre mim, sou Publicitária de formação, e atualmente sou estudante de Engenharia de Software, amo tecnologia (💻) acho que desde que nasci! 
 Ao longo dos anos venho estudando cada vez mais sobre linguagens, design e principalmente a experiência do usuário.
 <br>
 <br>
 <br>
 💜 Buscando colaborar com projetos que buscam melhorar o mundo 
 <br>
-😊 Posso te ajudar no melhor UI que você imaginar!
+😊 Posso te ajudar com ideais e implementações de projetos que você imaginar!
 <br>
-💻 Minhas stacks são Html, CSS, Js, PHP, Pyhton e Django.
+💻 Minhas stacks são HTML, CSS, JS, PHP, Pyhton e Django.
 <br>
 <br>
 ## 😊 Estou aberta a novas oportunidades.
