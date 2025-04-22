@@ -9,7 +9,7 @@ Ao longo dos anos venho estudando cada vez mais sobre linguagens, design e princ
 <br>
 😊 Posso te ajudar com ideais e implementações de projetos que você imaginar!
 <br>
-💻 Minhas stacks são HTML, CSS, JS, PHP, Pyhton e Django.
+💻 Minhas stacks são HTML, CSS, JS, PHP, Pyhton e Django. E estou aprendendo React e Next 
 <br>
 <br>
 ## 😊 Estou aberta a novas oportunidades.
